@@ -42,8 +42,8 @@ The policy map below presents a visual overview of the laws, policies and standa
     <th style="background-color: #dfe1e2;text-align:center;" colspan="2"><strong>Legend</strong></th>
   </tr>
   <tr>
-    <th style="background-color: #dfe1e2;"><strong>Type</strong></th>
-    <th style="background-color: #dfe1e2;"><strong>Description</strong></th>
+    <th style="background-color: #dfe1e2;"><strong>Name</strong></th>
+    <th style="background-color: #dfe1e2;"><strong>Role</strong></th>
   </tr>
   <tr onclick="location.href='#laws-and-directives';" style="cursor:pointer;" class="pmlegend">
     <td><span class="badge" style="color:#000;background-color:#cdeb8b;padding:14px;border-size:1;border-color:#000;">Executive Order</span></td>
