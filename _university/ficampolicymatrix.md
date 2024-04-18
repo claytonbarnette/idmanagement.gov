@@ -40,7 +40,7 @@ The policy map below presents a visual overview of the laws, policies and standa
     <th style="background-color: #dfe1e2;"><strong>Badge</strong></th>
     <th style="background-color: #dfe1e2;"><strong>Explanation</strong></th>
   </tr>
-  <tr onclick="location.href='#laws-and-directives';" style=":hover cursor:pointer;background-color: #c0c0c0;">
+  <tr onclick="location.href='#laws-and-directives';" style=":hover;cursor:pointer;background-color: #c0c0c0;">
     <td><span class="badge" style="color:#000;background-color:#cdeb8b;padding:14px;border-size:1;border-color:#000;">Executive Order</span></td>
     <td>A directive issued by the Office of the Presidency providing a basis for Federal Policies.</td>
   </tr>
