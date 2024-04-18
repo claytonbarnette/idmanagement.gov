@@ -58,7 +58,7 @@ The policy map below presents a visual overview of the laws, policies and standa
   </tr>
 </table>
 
-Use the legend above to navigate to quickly navigate to the sections below. 
+Use the legend above to navigate to your desired section. 
 
 <br>
 
