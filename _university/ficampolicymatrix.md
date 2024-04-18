@@ -34,6 +34,9 @@ The policy map below presents a visual overview of the laws, policies and standa
 
 <table width="75%" style="border-color:#c0c0c0;">
   <tr>
+    <th style="background-color: #dfe1e2;text-align:center;" colspan="2"><strong>Legend</strong></th>
+  </tr>
+  <tr>
     <th style="background-color: #dfe1e2;"><strong>Badge</strong></th>
     <th style="background-color: #dfe1e2;"><strong>Explanation</strong></th>
   </tr>
