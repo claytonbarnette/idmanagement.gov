@@ -168,13 +168,7 @@ Click on the name of a guidance document to see more details about it, and for a
 
 {%- for guidance in sorted_guidance %}
 
-{% if guidance.authored-by[0].shortName == "GSA" or guidance.authored-by[0].shortName == "CIOC" or guidance.authored-by[0].shortName == "ICAMSC"  or guidance.authored-by[0].shortName == "FPKIPA" %}
-  {% assign guicolor = "#ddd6e5" %}
-{% endif %}
-
-{% if guidance.authored-by[0].shortName == "NIST" or guidance.authored-by[0].shortName == "ISC" or guidance.authored-by[0].shortName == "NSA"  or guidance.authored-by[0].shortName == "FEDRAMP" %}
-  {% assign guicolor = "#d8d8d8" %}
-{% endif %}
+{% assign guicolor = "#d8d8d8" %}
 
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">
