@@ -144,8 +144,8 @@ Click on the name of a policy to see more details about it, and for a link to th
 ## Federal Technical Guidance
 
 <div>
-  <span class="badge" style="margin:3px;color:#000;background-color:#ddd6e5;padding:14px;border-size:1;border-color:#000;">Government Body</span>
   <span class="badge" style="margin:3px;color:#000;background-color:#d8d8d8;padding:14px;border-size:1;border-color:#000;">Technical Standard</span>
+  <span class="badge" style="margin:3px;color:#000;background-color:#ddd6e5;padding:14px;border-size:1;border-color:#000;">Government Body</span>
 </div>
 
 This table lists Technical Guidance published under ICAM. They provide technical details to support consistent, secure and effective implementation of the policies.
