@@ -32,7 +32,7 @@ Laws, executive policies, regulations, and government standards drive multiple f
 
 The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
 
-<table>
+<table width="75%" style="border-color:#c0c0c0;">
   <tr>
     <th style="background-color: #dfe1e2;"><strong>Badge</strong></th>
     <th style="background-color: #dfe1e2;"><strong>Explanation</strong></th>
@@ -54,7 +54,6 @@ The policy map below presents a visual overview of the laws, policies and standa
     <td>This table lists Technical Guidance published by federal agencies. They provide technical details to support consistent, secure, and effective implementation of the policies.</td>
   </tr>
 </table>
-<br>
 
 
 [![Visual overview of the laws, policies and standards relevant to FICAM, organized according to the government body that produced it. The relationships between the documents are illustrated by arrows connecting them.]({{site.baseurl}}/assets/img/icam-policy-landscape-map.png)]({{site.baseurl}}/university/policymap/){:target="_blank"}{:rel="noopener noreferrer"}
