@@ -32,7 +32,7 @@ Laws, executive policies, regulations, and government standards drive multiple f
 
 The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
 
-<table width="75%" style="border-color:#c0c0c0;">
+<table width="75%" style="border-color:#D5D5D5;">
   <tr>
     <th style="background-color: #dfe1e2;text-align:center;" colspan="2"><strong>Legend</strong></th>
   </tr>
@@ -42,19 +42,19 @@ The policy map below presents a visual overview of the laws, policies and standa
   </tr>
   <tr>
     <td><span class="badge" style="margin:3px;color:#000;background-color:#cdeb8b;padding:14px;border-size:1;border-color:#000;">Executive Order</span></td>
-    <td>A binding directive issued by the Office of the Presidency. Executive orders are the legal basis for Federal Policies listed in later tables.</td>
+    <td>A directive issued by the Office of the Presidency providing a basis for Federal Policies.</td>
   </tr>
   <tr>
     <td><span class="badge" style="margin:3px;color:#000;background-color:#ffcc99;padding:14px;border-size:1;border-color:#000;">Act of Congress</span></td>
-    <td>An act of law passed by Congress. Acts of Congress are another legal basis for Federal Policies.</td>
+    <td>A law passed by Congress providing a basis for Federal Policies.</td>
   </tr>
   <tr>
     <td><span class="badge" style="margin:3px;color:#000;background-color:#cce5ff;padding:14px;border-size:1;border-color:#000;">Federal Policy</span></td>
-    <td>Federal Policies set a strategic direction for the entire Federal Government, and are the basis for the development of the standards and technical guidance documents produced to support FICAM.</td>
+    <td>Rules governing the behavior of federal agencies.</td>
   </tr>
   <tr>
     <td><span class="badge" style="margin:3px;color:#000;background-color:#d8d8d8;padding:14px;border-size:1;border-color:#000;">Technical Standard</span></td>
-    <td>This table lists Technical Guidance published by federal agencies. They provide technical details to support consistent, secure, and effective implementation of the policies.</td>
+    <td>Technical specifications that describe how to implement systems in accordance with Federal Policies.</td>
   </tr>
 </table>
 
