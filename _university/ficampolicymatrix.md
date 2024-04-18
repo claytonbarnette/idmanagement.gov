@@ -40,23 +40,26 @@ The policy map below presents a visual overview of the laws, policies and standa
     <th style="background-color: #dfe1e2;"><strong>Badge</strong></th>
     <th style="background-color: #dfe1e2;"><strong>Explanation</strong></th>
   </tr>
-  <tr>
+  <tr onclick="location.href='#laws-and-directives';">
     <td><span class="badge" style="color:#000;background-color:#cdeb8b;padding:14px;border-size:1;border-color:#000;">Executive Order</span></td>
     <td>A directive issued by the Office of the Presidency providing a basis for Federal Policies.</td>
   </tr>
-  <tr>
+  <tr onclick="location.href='#laws-and-directives';">
     <td><span class="badge" style="color:#000;background-color:#ffcc99;padding:14px;border-size:1;border-color:#000;">Act of Congress</span></td>
     <td>A law passed by Congress providing a basis for Federal Policies.</td>
   </tr>
-  <tr>
+  <tr onclick="location.href='#federal-policies';">
     <td><span class="badge" style="color:#000;background-color:#cce5ff;padding:14px;border-size:1;border-color:#000;">Federal Policy</span></td>
     <td>Rules governing the behavior of federal agencies.</td>
   </tr>
-  <tr>
+  <tr onclick="location.href='#federal-technical-guidance';">
     <td><span class="badge" style="color:#000;background-color:#d8d8d8;padding:14px;border-size:1;border-color:#000;">Technical Standard</span></td>
     <td>Technical specifications that describe how to implement systems in accordance with Federal Policies.</td>
   </tr>
 </table>
+
+Use the legend above to navigate to quickly navigate to the sections below. 
+
 <br>
 
 [![Visual overview of the laws, policies and standards relevant to FICAM, organized according to the government body that produced it. The relationships between the documents are illustrated by arrows connecting them.]({{site.baseurl}}/assets/img/icam-policy-landscape-map.png)]({{site.baseurl}}/university/policymap/){:target="_blank"}{:rel="noopener noreferrer"}
