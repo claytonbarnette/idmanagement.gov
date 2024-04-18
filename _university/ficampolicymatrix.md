@@ -36,6 +36,11 @@ The policy map below presents a visual overview of the laws, policies and standa
 
 ## Laws and Directives
 
+<div>
+  <span class="badge" style="margin:3px;color:#000;background-color:#cdeb8b;padding:12px;border-size:1;border-color:#000;">Executive Order</span>
+  <span class="badge" style="margin:3px;color:#000;background-color:#ffcc99;padding:12px;border-size:1;border-color:#000;">Act of Congress</span>
+</div>
+
 This table lists the laws that establish or authorize the entities and activities listed in later tables.
 
 Laws are sorted by date, from oldest to newest.
@@ -88,6 +93,10 @@ Click on the name of a law or directive to see more details about it, and for a 
 
 ## Federal Policies
 
+<div>
+ <span class="badge" style="margin:3px;color:#000;background-color:#cce5ff;padding:12px;border-size:1;border-color:#000;">Federal Policy</span>
+</div>
+
 This table lists Federal Policies and directives published by OMB. They set a strategic direction for the entire Federal Government, and are the basis for development of the standards and technical guidance documents produced to support FICAM.
 
 Laws are sorted by date, from oldest to newest.
@@ -133,6 +142,11 @@ Click on the name of a policy to see more details about it, and for a link to th
 <hr/>
 
 ## Federal Technical Guidance
+
+<div>
+  <span class="badge" style="margin:3px;color:#000;background-color:#ddd6e5;padding:12px;border-size:1;border-color:#000;">Government Body</span>
+  <span class="badge" style="margin:3px;color:#000;background-color:#d8d8d8;padding:12px;border-size:1;border-color:#000;">Technical Standard</span>
+</div>
 
 This table lists Technical Guidance published under ICAM. They provide technical details to support consistent, secure and effective implementation of the policies.
 
