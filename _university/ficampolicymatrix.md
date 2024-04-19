@@ -124,7 +124,7 @@ Click on the name of a law or directive to see more details about it, and for a 
 
 ### Annual Updates
 
-Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by the authoring organization will be placed below. Please return to this list often to ensure you are acessing the most up-to-date information.     
+Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by the authoring organization will be placed below. Please return to this list often to ensure you are accessing the most up-to-date information.     
 
 - No document updates at this time. 
 
@@ -177,7 +177,7 @@ Click on the name of a policy to see more details about it, and for a link to th
 
 ### Annual Updates
 
-Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by the authoring organization will be placed below. Please return to this list often to ensure you are acessing the most up-to-date information.     
+Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by the authoring organization will be placed below. Please return to this list often to ensure you are accessing the most up-to-date information.     
 
 - No document updates at this time. 
 
@@ -227,7 +227,7 @@ Click on the name of a guidance document to see more details about it, and for a
 
 ### Annual Updates
 
-Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by the authoring organization will be placed below. Please return to this list often to ensure you are acessing the most up-to-date information.     
+Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by the authoring organization will be placed below. Please return to this list often to ensure you are accessing the most up-to-date information.     
 
 - No document updates at this time. 
 
