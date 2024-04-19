@@ -32,13 +32,18 @@ Laws, executive policies, regulations, and government standards drive multiple f
 
 The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
 
-<style>
-/* for row highlighting when mouse is over legend row */
- tr.rowhover:hover {
-  cursor: pointer;
-  background-color: #cfcfcf;
- }
-</style>
+<script>
+// used on row mouseover events for legend 
+// sets cursor to hand to show active link
+function rowhoverin(x){
+  x.style.backgroundColor: #cfcfcf;
+  x.style.cursor = "pointer";
+}
+// used on row mouseout events for legend
+function rowhoverout(x){
+  x.style.backgroundColor: #ffffff;
+}
+</script>
 <table width="75%" style="border:1px solid #c0c0c0;">
   <tr>
     <th style="background-color: #dfe1e2;text-align:center;" colspan="2"><strong>Legend</strong></th>
@@ -47,19 +52,19 @@ The policy map below presents a visual overview of the laws, policies and standa
     <th style="background-color: #dfe1e2;"><strong>Type</strong></th>
     <th style="background-color: #dfe1e2;"><strong>Role</strong></th>
   </tr>
-  <tr onclick="location.href='#laws-and-directives';" class="rowhover">
+  <tr onclick="location.href='#laws-and-directives';" onmouseover="rowhoverin(this)" onmouseout="rowhoverout(this)">
     <td><span class="badge" style="color:#000;background-color:#cdeb8b;padding:14px;border-size:1;border-color:#000;">Executive Order</span></td>
     <td>A directive issued by the Office of the Presidency providing a basis for Federal Policies.</td>
   </tr>
-  <tr onclick="location.href='#laws-and-directives';" class="rowhover">
+  <tr onclick="location.href='#laws-and-directives';" onmouseover="rowhoverin(this)" onmouseout="rowhoverout(this)">
     <td><span class="badge" style="color:#000;background-color:#ffcc99;padding:14px;border-size:1;border-color:#000;">Act of Congress</span></td>
     <td>A law passed by Congress providing a basis for Federal Policies.</td>
   </tr>
-  <tr onclick="location.href='#federal-policies';" class="rowhover">
+  <tr onclick="location.href='#federal-policies';" onmouseover="rowhoverin(this)" onmouseout="rowhoverout(this)">
     <td><span class="badge" style="color:#000;background-color:#cce5ff;padding:14px;border-size:1;border-color:#000;">Federal Policy</span></td>
     <td>Rules governing the behavior of federal agencies.</td>
   </tr>
-  <tr onclick="location.href='#federal-technical-guidance';" class="rowhover">
+  <tr onclick="location.href='#federal-technical-guidance';" onmouseover="rowhoverin(this)" onmouseout="rowhoverout(this)">
     <td><span class="badge" style="color:#000;background-color:#d8d8d8;padding:14px;border-size:1;border-color:#000;">Technical Standard</span></td>
     <td>Technical specifications that describe how to implement systems in accordance with Federal Policies.</td>
   </tr>
