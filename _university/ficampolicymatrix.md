@@ -120,7 +120,7 @@ Click on the name of a law or directive to see more details about it, and for a 
   </div>
 </div>
 {% endfor %}
-<br>
+
 
 ### Annual Updates
 
@@ -128,6 +128,7 @@ Annually and throughout the year, when documents from this authoring organizatio
 
 - No document updates at this time. 
 
+<br>
 <hr/>
 
 ## Federal Policies
@@ -173,7 +174,6 @@ Click on the name of a policy to see more details about it, and for a link to th
   </div>
 </div>
 {% endfor %}
-<br>
 
 ### Annual Updates
 
@@ -181,6 +181,7 @@ Annually and throughout the year, when documents from this authoring organizatio
 
 - No document updates at this time. 
 
+<br>
 <hr/>
 
 ## Federal Technical Guidance
@@ -223,7 +224,7 @@ Click on the name of a guidance document to see more details about it, and for a
   </div>
 </div>
 {% endfor %}
-<br>
+
 
 ### Annual Updates
 
@@ -231,4 +232,5 @@ Annually and throughout the year, when documents from this authoring organizatio
 
 - No document updates at this time. 
 
+<br>
 <br><br>
