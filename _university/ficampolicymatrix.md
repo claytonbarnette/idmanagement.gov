@@ -32,12 +32,12 @@ Laws, executive policies, regulations, and government standards drive multiple f
 
 The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
 
-<script>
+<style>
   tr:rowhover:hover {
     background-color: #cfcfcf;
     cursor: pointer;
   }
-</script>
+</style>
 <table width="75%" style="border:1px solid #c0c0c0;">
   <tr>
     <th style="background-color: #dfe1e2;text-align:center;" colspan="2"><strong>Legend</strong></th>
