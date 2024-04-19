@@ -30,7 +30,9 @@ Laws, executive policies, regulations, and government standards drive multiple f
 
 ## Policy Overview
 
-The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
+The FICAM policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
+
+Use the legend below in conjuction with the FICAM policy map to navigate to your desired information. 
 
 <style>
   /* for legend pointer */
@@ -64,8 +66,6 @@ The policy map below presents a visual overview of the laws, policies and standa
     <td>Technical specifications that describe how to implement systems in accordance with Federal Policies.</td>
   </tr>
 </table>
-
-Use the legend above to navigate to your desired section. 
 
 <br>
 
@@ -121,6 +121,13 @@ Click on the name of a law or directive to see more details about it, and for a 
 </div>
 {% endfor %}
 <br>
+
+### Annual Updates
+
+Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by the authoring organization will be placed below. Please return to this list often to ensure you are acessing the most up-to-date information.     
+
+- No document updates at this time. 
+
 <hr/>
 
 ## Federal Policies
@@ -167,6 +174,13 @@ Click on the name of a policy to see more details about it, and for a link to th
 </div>
 {% endfor %}
 <br>
+
+### Annual Updates
+
+Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by the authoring organization will be placed below. Please return to this list often to ensure you are acessing the most up-to-date information.     
+
+- No document updates at this time. 
+
 <hr/>
 
 ## Federal Technical Guidance
@@ -209,3 +223,12 @@ Click on the name of a guidance document to see more details about it, and for a
   </div>
 </div>
 {% endfor %}
+<br>
+
+### Annual Updates
+
+Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by the authoring organization will be placed below. Please return to this list often to ensure you are acessing the most up-to-date information.     
+
+- No document updates at this time. 
+
+<br><br>
