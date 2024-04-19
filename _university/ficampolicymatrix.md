@@ -42,7 +42,7 @@ The policy map below presents a visual overview of the laws, policies and standa
     <th style="background-color: #dfe1e2;text-align:center;" colspan="2"><strong>Legend</strong></th>
   </tr>
   <tr>
-    <th style="background-color: #dfe1e2;"><strong>Name</strong></th>
+    <th style="background-color: #dfe1e2;"><strong>Type</strong></th>
     <th style="background-color: #dfe1e2;"><strong>Role</strong></th>
   </tr>
   <tr onclick="location.href='#laws-and-directives';" style="cursor:pointer;" class="pmlegend">
