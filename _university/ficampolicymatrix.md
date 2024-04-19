@@ -34,7 +34,7 @@ The policy map below presents a visual overview of the laws, policies and standa
 
 <style>
 /* for row selections */
- tr.pmlegend:hover {
+ tr:pmlegend:hover {
   background-color: #cfcfcf;
  }
 </style>
