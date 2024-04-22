@@ -79,7 +79,7 @@ Laws are sorted by date, from oldest to newest.
 
 Click on the name of a law or directive to see more details about it, and for a link to the law itself.
 
-{% assign sorted_laws = site.data.laws-policies-standards | where: "type", "Law" | sort: "published", "last" %}
+{% assign sorted_laws = site.data.laws-policies-standards | where: "type", "Law" | sort: "published", "last" | sort: "authored-by" %}
 
 <!-- | Document | Description | Date Published |
 | --- | --- | --- |
@@ -121,15 +121,6 @@ Click on the name of a law or directive to see more details about it, and for a 
 </div>
 {% endfor %}
 
-
-### Annual Updates
-
-Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by this authoring organization will be placed below. 
-
-Please return to this section often to ensure you are accessing the most up-to-date information.     
-
-- No document updates at this time. 
-
 <br>
 <hr/>
 
@@ -141,7 +132,7 @@ Laws are sorted by date, from oldest to newest.
 
 Click on the name of a policy to see more details about it, and for a link to the policy itself.
 
-{% assign sorted_policies = site.data.laws-policies-standards | where: "type", "Policy" | sort: "published", "last" %}
+{% assign sorted_policies = site.data.laws-policies-standards | where: "type", "Policy" | sort: "published", "last" | sort:"shortName"  %}
 
 <!-- | Document | Description | Date Published |
 | --- | --- | --- |
@@ -177,14 +168,6 @@ Click on the name of a policy to see more details about it, and for a link to th
 </div>
 {% endfor %}
 
-### Annual Updates
-
-Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by this authoring organization will be placed below. 
-
-Please return to this section often to ensure you are accessing the most up-to-date information.     
-
-- No document updates at this time. 
-
 <br>
 <hr/>
 
@@ -194,7 +177,7 @@ This table lists Technical Guidance published under ICAM. They provide technical
 
 Click on the name of a guidance document to see more details about it, and for a link to the document itself.
 
-{% assign sorted_guidance = site.data.laws-policies-standards | where: "type", "Guidance" | sort: "published", "last" %}
+{% assign sorted_guidance = site.data.laws-policies-standards | where: "type", "Guidance" | sort: "published", "last" | sort: "shortName" %}
 
 <!-- | Document | Description | Date Published |
 | --- | --- | --- |
@@ -235,6 +218,8 @@ Click on the name of a guidance document to see more details about it, and for a
 Annually and throughout the year, when documents from this authoring organization are updated, deprecated, or superseded, a schedule of when each affected document is expected to be replaced or updated by this authoring organization will be placed below. 
 
 Please return to this section often to ensure you are accessing the most up-to-date information.     
+
+<hr>
 
 - No document updates at this time. 
 
